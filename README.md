@@ -1,4 +1,6 @@
 # Desk Eyes 👀
+<img width="800" height="450" alt="desk_eyes" src="https://github.com/user-attachments/assets/5948ff7a-cb59-423e-837a-6fc9476323b5" />
+
 
 Animated robot eyes for your desk, running on an ESP32 display board in a 3D printed case.
 They blink, look around and change moods on their own.
