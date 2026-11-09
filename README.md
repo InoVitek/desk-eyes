@@ -30,8 +30,9 @@ https://www.youtube.com/watch?v=fKnaSUIqE-E
 4. Upload
 
 **PlatformIO**
+```
 pio run -t upload
-
+```
 ## Files
 | File | What it is |
 |---|---|
